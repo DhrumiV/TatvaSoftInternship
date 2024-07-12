@@ -1,27 +1,62 @@
-# FrontEnd
+# Internship at TatvaSoft
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
+![TatvaSoft](https://img.shields.io/badge/TatvaSoft-F88900?style=for-the-badge)
 
-## Development server
+## Overview
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+During my internship at TatvaSoft, I had the opportunity to work on several technologies and enhance my skills in software development. The primary focus areas included .NET, Angular, Azure, performing CRUD operations, and connecting the backend to the frontend to make single-page applications more responsive.
 
-## Code scaffolding
+## Project: Mission Theme Web Application
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+As part of the internship, I worked on developing a single-page application (SPA) using the following technologies:
 
-## Build
+- **Frontend**: 
+  - [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge)](https://angular.io/)
+  - ![HTML, CSS](https://img.shields.io/badge/HTML,CSS-336791?style=for-the-badge)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- **Backend**: 
+  - [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge)](https://dotnet.microsoft.com/)
+  - [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge)](https://www.postgresql.org/)
+  
+- **Cloud**: 
+  - [![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge)](https://azure.microsoft.com/)
 
-## Running unit tests
+The project included implementing CRUD operations, ensuring data integrity, and deploying the application on Azure.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Skills Acquired
 
-## Running end-to-end tests
+### .NET
+- Learned the fundamentals of .NET framework.
+- Gained hands-on experience with ASP.NET Core for building web applications.
+- Implemented various backend functionalities and services.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### Angular
+- Developed single-page applications using Angular.
+- Created dynamic and responsive user interfaces.
+- Worked with Angular components, services, and routing.
 
-## Further help
+### Azure
+- Explored cloud computing with Microsoft Azure.
+- Deployed applications and services on Azure.
+- Managed resources and performed various cloud operations.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### CRUD Operations
+- Implemented Create, Read, Update, and Delete (CRUD) functionalities.
+- Worked with Entity Framework Core for database interactions.
+- Ensured data integrity and consistency across operations.
+
+### Backend-Frontend Integration
+- Connected backend services with the frontend to create seamless applications.
+- Used RESTful APIs to facilitate communication between frontend and backend.
+- Ensured smooth data flow and user interactions.
+
+### Technologies Used
+- **Frontend**: Angular, HTML, CSS
+- **Backend**: .NET, ASP.NET Core
+- **Database**: PostgreSQL Server, Entity Framework Core
+- **Cloud**: Microsoft Azure
+- **Tools**: Visual Studio, Visual Studio Code, Git
+
+## Conclusion
+
+The internship at TatvaSoft provided me with valuable experience in modern web development technologies. Working on the single-page application project helped me to understand the complete development lifecycle, from setting up the project to deploying it on the cloud. This experience has significantly enhanced my skills and prepared me for future challenges in the software development field.
